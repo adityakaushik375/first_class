@@ -14,3 +14,9 @@ footer{
     background-color: aquamarine;
     color: red;
 }
+
+p{
+    color: red;
+    background-color: green;
+    font-size: 8rem;
+}
