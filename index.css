@@ -4,3 +4,9 @@ body{
     color: wheat;
     font-size: 1rem;
 }
+
+header{
+    font-size: 2rem;
+    text-decoration: underline;
+    color: rgb(175, 210, 175);
+}
