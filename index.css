@@ -10,4 +10,7 @@ header{
     text-decoration: underline;
     color: rgb(175, 210, 175);
 }
-
+footer{
+    background-color: aquamarine;
+    color: red;
+}
